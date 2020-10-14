@@ -1,6 +1,6 @@
 # Shortcut-for-nuaa.portal
 
-为了免去每次都要认证的重复操作，利用Apple设备的“[快捷指令](https://support.apple.com/zh-cn/guide/shortcuts/welcome/ios)”实现了 nuaa.portal 的一键登录。
+为了免去每次都要认证的重复操作，利用Apple设备的“[快捷指令](https://support.apple.com/zh-cn/guide/shortcuts/welcome/ios)”实现了南航校园网的一键登录。
 
 ***
 
