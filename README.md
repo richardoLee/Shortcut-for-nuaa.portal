@@ -7,7 +7,8 @@
 ### 使用方法
 
 1. 在设备中打开[此链接](https://www.icloud.com/shortcuts/4c23b07e15614e3fb4e32aa1f4c473ed)，滚动至最下方，点击“添加不受信任的快捷指令”。
-![](https://github.com/richardoLee/Shortcut-for-nuaa.portal/blob/main/images/IMG_4571%20(Small).jpg) ![](https://github.com/richardoLee/Shortcut-for-nuaa.portal/blob/main/images/IMG_4572.jpg)
+
+![](https://github.com/richardoLee/Shortcut-for-nuaa.portal/blob/main/images/IMG_4571%20(Small).jpg) ![](https://github.com/richardoLee/Shortcut-for-nuaa.portal/blob/main/images/IMG_4572%20(Small).jpg.jpg)
 
 2. Wi-Fi加入nuaa.portal，在详细信息中打开“自动加入”，关闭“自动登录”。若期间弹出登录页面，点击右上角的“取消”，并选择“不通过互联网使用”。
 ![](https://github.com/richardoLee/Shortcut-for-nuaa.portal/blob/main/images/IMG_4564.jpg)
